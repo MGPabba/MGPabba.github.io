@@ -18,4 +18,4 @@ This is the portfolio website of Mithilesh Gupta Pabba, a Computer Science stude
 ## Live Website
 [View Website](https://mgpabba.github.io/)
 
-Thank you for visiting my portfolio! Feel free to reach out for internship opportunities.
+Thank you for visiting my portfolio!
