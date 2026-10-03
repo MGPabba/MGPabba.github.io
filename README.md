@@ -1,6 +1,6 @@
 # Mithilesh Gupta Pabba Portfolio
 
-This is the portfolio website of Mithilesh Gupta Pabba, a Computer Science student at the University of Rhode Island. The site showcases academic projects, skills, and resume information.
+This is the portfolio website of Mithilesh Gupta Pabba, a Computer Science graduate from the University of Rhode Island. The site showcases academic projects, skills, and resume information.
 
 ## Overview
 
